@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pavitrihosts.aternos.me
-",
+    "ip": "pavitrihosts.aternos.me",
     "port": 11849,
     "version": "1.20.1",
     "try-creative": false
